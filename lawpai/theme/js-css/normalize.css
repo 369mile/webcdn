@@ -38,7 +38,7 @@
   <Variable name="body.background" description="Background"
       color="$(body.background.color)"
       type="background"
-      default="$(color) none repeat scroll top left"  value="$(color) url(https://images2.imgbox.com/c5/0c/0LQKxryn_o.jpg) repeat scroll top left"/>
+      default="$(color) none repeat scroll top left"  value="$(color) url(https://cdn.jsdelivr.net/gh/lawpai/webcdn@master/lawpai/theme/img/headerbig.jpg) repeat scroll top left"/>
   <Variable name="body.background.color" description="Body background color"
       type="color"
       default="#eee"  value="#f3f4f7"/>
