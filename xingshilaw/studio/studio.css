@@ -328,7 +328,7 @@ border: 1px solid #fafafa;
 margin: 100px 0;
 padding: 25px 40px;
 }
-.logo a { color: white; }
+.logo a { color: #333; }
 #headur h1 {
 color: #000;
 font-family: raleway;
@@ -343,16 +343,16 @@ height: 100%;
 vertical-align: middle;
 width: 100%;
 }
-.logo span { color: #555; font-size: 13px; }
+.logo span { color: #555; font-size: 14px; }
 .main-menu { text-align: center; }
 .main-menu li { margin-bottom: 1px; }
 .main-menu li a {
 background-color: #fff;
 border-left: 4px solid;
-color: #555;
+color: #333;
 display: block;
 font-family: raleway;
-font-size: 13px;
+font-size: 14px;
 padding: 15px 30px;
 text-transform: uppercase;
 transition: all 150ms ease-in 0s;
